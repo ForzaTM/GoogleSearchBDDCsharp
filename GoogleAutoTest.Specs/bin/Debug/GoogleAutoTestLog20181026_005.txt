@@ -1,0 +1,142 @@
+2018-10-26 14:28:41.973 +03:00 [INF] Executed at 1770338312
+2018-10-26 14:28:41.975 +03:00 [INF] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("3. Search using Firefox drive","Firefox","www.lincolnelectric.com","5",null) Started successfully
+2018-10-26 14:29:10.583 +03:00 [INF] Driver: Firefox was used to run test
+2018-10-26 14:29:13.325 +03:00 [INF] Amount of links on page 1: 8
+2018-10-26 14:29:13.388 +03:00 [INF] Checking link: https://store.steampowered.com/.../Automation__The_Car_C... on the search page: 1
+2018-10-26 14:29:13.401 +03:00 [INF] Checking link: https://www.automationgame.com/ on the search page: 1
+2018-10-26 14:29:13.424 +03:00 [INF] Checking link: https://en.wikipedia.org/wiki/Automation on the search page: 1
+2018-10-26 14:29:13.434 +03:00 [INF] Checking link: https://www.automation.com/ on the search page: 1
+2018-10-26 14:29:13.443 +03:00 [INF] Checking link: https://www.isa.org/about-isa/what-is-automation/ on the search page: 1
+2018-10-26 14:29:13.450 +03:00 [INF] Checking link: https://www.techopedia.com/definition/32099/automation on the search page: 1
+2018-10-26 14:29:13.457 +03:00 [INF] Checking link: https://www.automationworld.com/ on the search page: 1
+2018-10-26 14:29:13.466 +03:00 [INF] Checking link: https://www.automationanywhere.com/partners on the search page: 1
+2018-10-26 14:29:13.467 +03:00 [INF] www.lincolnelectric.com is not present on page: 1
+2018-10-26 14:29:15.547 +03:00 [INF] Element: Element (id = 780c5489-7ea1-4073-8246-43580f26ade5) Click successfull
+2018-10-26 14:29:16.159 +03:00 [INF] Amount of links on page 2: 10
+2018-10-26 14:29:16.172 +03:00 [INF] Checking link: https://www.ivanti.com/products/automation on the search page: 2
+2018-10-26 14:29:16.180 +03:00 [INF] Checking link: https://marketplace.atlassian.com/apps/.../automation-for-jira on the search page: 2
+2018-10-26 14:29:16.188 +03:00 [INF] Checking link: https://www.beckhoff.com/ on the search page: 2
+2018-10-26 14:29:16.196 +03:00 [INF] Checking link: https://mailchimp.com/help/create-an-automation/ on the search page: 2
+2018-10-26 14:29:16.203 +03:00 [INF] Checking link: automation-remarks.com/ on the search page: 2
+2018-10-26 14:29:16.210 +03:00 [INF] Checking link: https://www.rockwellautomation.com/ on the search page: 2
+2018-10-26 14:29:16.217 +03:00 [INF] Checking link: https://www.vmware.com/ru/products/vrealize-automation.html on the search page: 2
+2018-10-26 14:29:16.227 +03:00 [INF] Checking link: https://www.siemens.com/ua/ru/home/products/automation/systems/industrial.html on the search page: 2
+2018-10-26 14:29:16.235 +03:00 [INF] Checking link: https://help.github.com/.../configuring-automation-for-proje... on the search page: 2
+2018-10-26 14:29:16.244 +03:00 [INF] Checking link: https://www.activecampaign.com/automation on the search page: 2
+2018-10-26 14:29:16.244 +03:00 [INF] www.lincolnelectric.com is not present on page: 2
+2018-10-26 14:29:16.814 +03:00 [INF] Element: Element (id = 84588e6d-891a-46f7-9f28-32928a490fed) Click successfull
+2018-10-26 14:29:16.993 +03:00 [INF] Amount of links on page 3: 10
+2018-10-26 14:29:17.002 +03:00 [INF] Checking link: https://www.automationdirect.com/adc/Home/Home on the search page: 3
+2018-10-26 14:29:17.010 +03:00 [INF] Checking link: https://www.elmia.se/en/automation/ on the search page: 3
+2018-10-26 14:29:17.016 +03:00 [INF] Checking link: https://us.mitsubishielectric.com/fa/en/products on the search page: 3
+2018-10-26 14:29:17.022 +03:00 [INF] Checking link: https://searchitoperations.techtarget.com/.../IT-automation on the search page: 3
+2018-10-26 14:29:17.029 +03:00 [INF] Checking link: https://www.home-assistant.io/getting-started/automation/ on the search page: 3
+2018-10-26 14:29:17.036 +03:00 [INF] Checking link: https://www.a3automate.org/ on the search page: 3
+2018-10-26 14:29:17.043 +03:00 [INF] Checking link: https://www.allied-automation.com/ on the search page: 3
+2018-10-26 14:29:17.048 +03:00 [INF] Checking link: https://getcruise.com/careers on the search page: 3
+2018-10-26 14:29:17.055 +03:00 [INF] Checking link: https://convertkit.com/features/automations/ on the search page: 3
+2018-10-26 14:29:17.062 +03:00 [INF] Checking link: https://www.ansible.com/overview/it-automation on the search page: 3
+2018-10-26 14:29:17.063 +03:00 [INF] www.lincolnelectric.com is not present on page: 3
+2018-10-26 14:29:18.314 +03:00 [INF] Element: Element (id = 5bd09995-a7e6-43d9-b352-eef893676510) Click successfull
+2018-10-26 14:29:18.579 +03:00 [INF] Amount of links on page 4: 10
+2018-10-26 14:29:18.585 +03:00 [INF] Checking link: https://www.volvogroup.com/en-en/.../automation.html on the search page: 4
+2018-10-26 14:29:18.593 +03:00 [INF] Checking link: https://www.mckinsey.com/.../a-ceo-action-plan-for-workpla... on the search page: 4
+2018-10-26 14:29:18.599 +03:00 [INF] Checking link: https://docs.microsoft.com/.../automation/automation-quickst... on the search page: 4
+2018-10-26 14:29:18.605 +03:00 [INF] Checking link: https://www.fmi-international.com/.../industrial-automation on the search page: 4
+2018-10-26 14:29:18.611 +03:00 [INF] Checking link: https://www.recode.net/.../jobs-technology-will-replace-auto... on the search page: 4
+2018-10-26 14:29:18.624 +03:00 [INF] Checking link: https://www.ibm.com/.../en/.../product_welcome_kc_imc.ht... on the search page: 4
+2018-10-26 14:29:18.630 +03:00 [INF] Checking link: https://a9t9.com/kantu/home/welcome?b=chrome on the search page: 4
+2018-10-26 14:29:18.635 +03:00 [INF] Checking link: https://docs.automationforjira.com/ on the search page: 4
+2018-10-26 14:29:18.653 +03:00 [INF] Checking link: https://www.redhat.com/en/topics/automation on the search page: 4
+2018-10-26 14:29:18.667 +03:00 [INF] Checking link: www.lincolnelectric.com/en-us/equipment/.../automation.asp... on the search page: 4
+2018-10-26 14:29:18.669 +03:00 [INF] www.lincolnelectric.com is present on page: 4
+2018-10-26 14:29:18.671 +03:00 [INF] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("3. Search using Firefox drive","Firefox","www.lincolnelectric.com","5",null) Finished successfully
+2018-10-26 14:29:35.161 +03:00 [INF] Executed at 1770391500
+2018-10-26 14:29:35.201 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("3. Search using Firefox drive","Firefox","automation",null) Started successfully
+2018-10-26 14:29:44.661 +03:00 [INF] Driver: Firefox was used to run test
+2018-10-26 14:29:46.043 +03:00 [INF] Wait for the By.CssSelector: h3.LC20lb element
+2018-10-26 14:29:46.854 +03:00 [INF] Element: Element (id = 5824e7a8-7e95-4706-820b-2ab878f09f30) Click successfull
+2018-10-26 14:29:46.858 +03:00 [INF] Element: GoogleAutoTest.Specs.Core.WebElement Click successfull
+2018-10-26 14:29:46.880 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("3. Search using Firefox drive","Firefox","automation",null) Finished successfully
+2018-10-26 14:29:59.635 +03:00 [INF] Executed at 1770415968
+2018-10-26 14:29:59.693 +03:00 [INF] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("2. Search using IE drive","IE","www.lincolnelectric.com","5",null) Started successfully
+2018-10-26 14:30:01.991 +03:00 [INF] Driver: IE was used to run test
+2018-10-26 14:30:03.614 +03:00 [ERR] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("2. Search using IE drive","IE","www.lincolnelectric.com","5",null) Failed
+2018-10-26 14:30:19.402 +03:00 [INF] Executed at 1770435734
+2018-10-26 14:30:19.442 +03:00 [INF] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("2. Search using IE drive","IE","www.lincolnelectric.com","5",null) Started successfully
+2018-10-26 14:30:21.973 +03:00 [INF] Driver: IE was used to run test
+2018-10-26 14:30:26.163 +03:00 [INF] Amount of links on page 1: 12
+2018-10-26 14:30:26.259 +03:00 [INF] Checking link: https://en.wikipedia.org/wiki/Automation on the search page: 1
+2018-10-26 14:30:26.344 +03:00 [INF] Checking link:  on the search page: 1
+2018-10-26 14:30:26.442 +03:00 [INF] Checking link:  on the search page: 1
+2018-10-26 14:30:26.529 +03:00 [INF] Checking link:  on the search page: 1
+2018-10-26 14:30:26.611 +03:00 [INF] Checking link:  on the search page: 1
+2018-10-26 14:30:26.717 +03:00 [INF] Checking link: https://en.wikipedia.org/wiki/Automation on the search page: 1
+2018-10-26 14:30:26.841 +03:00 [INF] Checking link: https://www.techopedia.com/definition/32099/automation on the search page: 1
+2018-10-26 14:30:26.935 +03:00 [INF] Checking link: https://www.britannica.com/technology/automation on the search page: 1
+2018-10-26 14:30:27.033 +03:00 [INF] Checking link: https://www.isa.org/about-isa/what-is-automation/ on the search page: 1
+2018-10-26 14:30:27.129 +03:00 [INF] Checking link: https://www.automation.com/ on the search page: 1
+2018-10-26 14:30:27.240 +03:00 [INF] Checking link: https://www.automationgame.com/ on the search page: 1
+2018-10-26 14:30:27.333 +03:00 [INF] Checking link: https://www.merriam-webster.com/dictionary/automation on the search page: 1
+2018-10-26 14:30:27.334 +03:00 [INF] www.lincolnelectric.com is not present on page: 1
+2018-10-26 14:30:28.748 +03:00 [INF] Element: Element (id = 3d42f725-0d3f-48c2-85c2-f10aa6a7b237) Click successfull
+2018-10-26 14:30:30.555 +03:00 [INF] Amount of links on page 2: 10
+2018-10-26 14:30:30.637 +03:00 [INF] Checking link: https://www.youtube.com/watch?v=xb6Xj1gfljc on the search page: 2
+2018-10-26 14:30:30.730 +03:00 [INF] Checking link: https://www.merriam-webster.com/dictionary/automation on the search page: 2
+2018-10-26 14:30:30.841 +03:00 [INF] Checking link: https://www.automationworld.com/ on the search page: 2
+2018-10-26 14:30:30.943 +03:00 [INF] Checking link: https://twitter.com/hashtag/automation?lang=en on the search page: 2
+2018-10-26 14:30:31.043 +03:00 [INF] Checking link: https://help.twitter.com/en/rules-and-policies/twitter-automation on the search page: 2
+2018-10-26 14:30:31.137 +03:00 [INF] Checking link: https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=en on the search page: 2
+2018-10-26 14:30:31.233 +03:00 [INF] Checking link: https://www.helpsystems.com/.../automated-operations-5-benefits-your-organization on the search page: 2
+2018-10-26 14:30:31.328 +03:00 [INF] Checking link: https://www.recode.net/.../jobs-technology-will-replace-automation-ai-oecd-oxford on the search page: 2
+2018-10-26 14:30:31.430 +03:00 [INF] Checking link: https://mailchimp.com/help/create-an-automation/ on the search page: 2
+2018-10-26 14:30:31.524 +03:00 [INF] Checking link: https://www.ibm.com/automation on the search page: 2
+2018-10-26 14:30:31.524 +03:00 [INF] www.lincolnelectric.com is not present on page: 2
+2018-10-26 14:30:32.901 +03:00 [INF] Element: Element (id = e7a8adca-51d0-447b-a2ec-a2c6301560a8) Click successfull
+2018-10-26 14:30:34.778 +03:00 [INF] Amount of links on page 3: 10
+2018-10-26 14:30:34.867 +03:00 [INF] Checking link: https://www.elmia.se/en/automation/ on the search page: 3
+2018-10-26 14:30:34.976 +03:00 [INF] Checking link: https://www.forbes.com/sites/.../09/.../three-job-types-that-will-thrive-with-automation/ on the search page: 3
+2018-10-26 14:30:35.066 +03:00 [INF] Checking link: https://marketplace.atlassian.com/apps/1215460/automation-for-jira on the search page: 3
+2018-10-26 14:30:35.158 +03:00 [INF] Checking link: https://www.home-assistant.io/docs/automation/editor/ on the search page: 3
+2018-10-26 14:30:35.252 +03:00 [INF] Checking link: https://www.mckinsey.com/business-functions/operations/.../the-automation-imperativ... on the search page: 3
+2018-10-26 14:30:35.363 +03:00 [INF] Checking link: https://www.automationindiaexpo.com/ on the search page: 3
+2018-10-26 14:30:35.458 +03:00 [INF] Checking link: https://us.mitsubishielectric.com/fa/en/ on the search page: 3
+2018-10-26 14:30:35.557 +03:00 [INF] Checking link: https://www.volvogroup.com/en-en/innovation/automation.html on the search page: 3
+2018-10-26 14:30:35.648 +03:00 [INF] Checking link: https://help.github.com/articles/configuring-automation-for-project-boards/ on the search page: 3
+2018-10-26 14:30:35.740 +03:00 [INF] Checking link: https://www.siemens.com/global/en/home/products/automation.html on the search page: 3
+2018-10-26 14:30:35.741 +03:00 [INF] www.lincolnelectric.com is not present on page: 3
+2018-10-26 14:30:37.191 +03:00 [INF] Element: Element (id = 95882b11-fb54-4cbf-92a2-387d50235a06) Click successfull
+2018-10-26 14:30:39.023 +03:00 [INF] Amount of links on page 4: 10
+2018-10-26 14:30:39.117 +03:00 [INF] Checking link: https://www.trumpf.com › ... › Produkte › Maschinen & Systeme on the search page: 4
+2018-10-26 14:30:39.219 +03:00 [INF] Checking link: www.connectingindustry.com/Automation/ on the search page: 4
+2018-10-26 14:30:39.343 +03:00 [INF] Checking link: https://en.wiktionary.org/wiki/automation on the search page: 4
+2018-10-26 14:30:39.447 +03:00 [INF] Checking link: https://www.bigcommerce.com/blog/email-automation/ on the search page: 4
+2018-10-26 14:30:39.542 +03:00 [INF] Checking link: https://store.steampowered.com/.../Automation__The_Car_Company_Tycoon_Game/ on the search page: 4
+2018-10-26 14:30:39.645 +03:00 [INF] Checking link: https://www.kalmarglobal.com/automation/ on the search page: 4
+2018-10-26 14:30:39.739 +03:00 [INF] Checking link: https://www.browserstack.com/automate on the search page: 4
+2018-10-26 14:30:39.833 +03:00 [INF] Checking link: https://www.linkedin.com/feed/news/jobs-that-are-safe-from-automation-2651412 on the search page: 4
+2018-10-26 14:30:39.925 +03:00 [INF] Checking link: https://en.oxforddictionaries.com/definition/automation on the search page: 4
+2018-10-26 14:30:40.013 +03:00 [INF] Checking link: https://docs.automationforjira.com/ on the search page: 4
+2018-10-26 14:30:40.013 +03:00 [INF] www.lincolnelectric.com is not present on page: 4
+2018-10-26 14:30:41.440 +03:00 [INF] Element: Element (id = 08393703-a837-4808-9a24-4d09bf370d3b) Click successfull
+2018-10-26 14:30:43.296 +03:00 [INF] Amount of links on page 5: 10
+2018-10-26 14:30:43.391 +03:00 [INF] Checking link: https://tmt.knect365.com/automation-everywhere/ on the search page: 5
+2018-10-26 14:30:43.505 +03:00 [INF] Checking link: https://www.ableton.com/en/manual/automation-and-editing-envelopes/ on the search page: 5
+2018-10-26 14:30:43.598 +03:00 [INF] Checking link: https://new.abb.com › Offerings on the search page: 5
+2018-10-26 14:30:43.700 +03:00 [INF] Checking link: https://www.ansible.com/overview/it-automation on the search page: 5
+2018-10-26 14:30:43.792 +03:00 [INF] Checking link: https://www.agilent.com/en/products/automation-solutions on the search page: 5
+2018-10-26 14:30:43.887 +03:00 [INF] Checking link: https://www.theatlantic.com/technology/archive/2018/10/agents...automation/568795/ on the search page: 5
+2018-10-26 14:30:43.980 +03:00 [INF] Checking link: https://automationorchard.com/ on the search page: 5
+2018-10-26 14:30:44.074 +03:00 [INF] Checking link: https://www.journals.elsevier.com/automation-in-construction on the search page: 5
+2018-10-26 14:30:44.166 +03:00 [INF] Checking link: www.preciseautomation.com/ on the search page: 5
+2018-10-26 14:30:44.259 +03:00 [INF] Checking link: https://ima.it/automation/ on the search page: 5
+2018-10-26 14:30:44.260 +03:00 [ERR] www.lincolnelectric.com is not present on page: 5
+2018-10-26 14:30:44.261 +03:00 [ERR] No domains like: www.lincolnelectric.com within pages: 1 - 5
+2018-10-26 14:30:44.347 +03:00 [ERR] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("2. Search using IE drive","IE","www.lincolnelectric.com","5",null) Failed
+2018-10-26 15:22:34.901 +03:00 [INF] Executed at 1773571156
+2018-10-26 15:22:34.938 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Started successfully
+2018-10-26 15:22:39.766 +03:00 [INF] Driver: Chrome was used to run test
+2018-10-26 15:22:41.504 +03:00 [INF] Wait for the By.CssSelector: h3.LC20lb element
+2018-10-26 15:22:43.629 +03:00 [INF] Element: Element (id = 0.6910351712055363-3) Click successfull
+2018-10-26 15:22:43.630 +03:00 [INF] Element: GoogleAutoTest.Specs.Core.WebElement Click successfull
+2018-10-26 15:22:43.647 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Finished successfully

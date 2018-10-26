@@ -1,0 +1,4 @@
+2018-10-26 14:28:37.150 +03:00 [INF] Executed at 1770333484
+2018-10-26 14:28:37.152 +03:00 [INF] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("2. Search using IE drive","IE","www.lincolnelectric.com","5",null) Started successfully
+2018-10-26 14:28:39.384 +03:00 [INF] Driver: IE was used to run test
+2018-10-26 14:28:41.101 +03:00 [ERR] Test:_02VerifyThatThereIsExpectedDomainOnSearchResultsPages("2. Search using IE drive","IE","www.lincolnelectric.com","5",null) Failed

@@ -1,0 +1,21 @@
+2018-10-26 10:15:46.600 +03:00 [INF] Executed at 1755163234
+2018-10-26 10:15:46.640 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Started successfully
+2018-10-26 10:15:51.882 +03:00 [INF] Driver: Chrome was used to run test
+2018-10-26 10:15:53.176 +03:00 [INF] Wait for the By.CssSelector: h3.LC20lb element
+2018-10-26 10:15:55.163 +03:00 [INF] Element: Element (id = 0.6306360139192737-3) Click successfull
+2018-10-26 10:15:55.164 +03:00 [INF] Element: GoogleAutoTest.Specs.Core.WebElement Click successfull
+2018-10-26 10:15:55.322 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Finished successfully
+2018-10-26 10:54:42.923 +03:00 [INF] Executed at 1757499515
+2018-10-26 10:54:42.968 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Started successfully
+2018-10-26 10:54:48.128 +03:00 [INF] Driver: Chrome was used to run test
+2018-10-26 10:54:49.408 +03:00 [INF] Wait for the By.CssSelector: h3.LC20lb element
+2018-10-26 10:54:51.071 +03:00 [INF] Element: Element (id = 0.22657622456183124-3) Click successfull
+2018-10-26 10:54:51.072 +03:00 [INF] Element: GoogleAutoTest.Specs.Core.WebElement Click successfull
+2018-10-26 10:54:51.089 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Finished successfully
+2018-10-26 14:27:44.150 +03:00 [INF] Executed at 1770280484
+2018-10-26 14:27:44.188 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Started successfully
+2018-10-26 14:27:49.824 +03:00 [INF] Driver: Chrome was used to run test
+2018-10-26 14:27:52.199 +03:00 [INF] Wait for the By.CssSelector: h3.LC20lb element
+2018-10-26 14:27:59.385 +03:00 [INF] Element: Element (id = 0.3487901984443802-3) Click successfull
+2018-10-26 14:27:59.386 +03:00 [INF] Element: GoogleAutoTest.Specs.Core.WebElement Click successfull
+2018-10-26 14:27:59.399 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("1. Search using Chrome driver","Chrome","automation",null) Finished successfully

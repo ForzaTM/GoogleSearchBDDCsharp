@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Rost\LessonsCSharpGosha\GoogleAutoTest.Specs\GoogleAutoTest.Specs\bin\Release\GoogleAutoTest.Specs.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-10-26" time="14:32:04">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.9031" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\rdrozd\Downloads\NUnit-2.6.3\bin" machine-name="VIW20086" user="RDrozd" user-domain="SEO" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Rost\LessonsCSharpGosha\GoogleAutoTest.Specs\GoogleAutoTest.Specs\bin\Release\GoogleAutoTest.Specs.dll" executed="True" result="Failure" success="False" time="0.005" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GoogleAutoTest" executed="True" result="Failure" success="False" time="0.005" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Specs" executed="True" result="Failure" success="False" time="0.005" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Features" executed="True" result="Failure" success="False" time="0.005" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="GoogleSearchFeature" executed="True" result="Failure" success="False" time="0.004" asserts="0">
+                    <categories>
+                      <category name="GoogleSearch" />
+                    </categories>
+                    <results>
+                      <test-suite type="ParameterizedTest" name="_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord" executed="True" result="Failure" success="False" time="0.003" asserts="0">
+                        <categories>
+                          <category name="mytag" />
+                        </categories>
+                        <results>
+                          <test-case name="GoogleAutoTest.Specs.Features.GoogleSearchFeature._01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord(&quot;1. Search using Chrome driver&quot;,&quot;Chrome&quot;,&quot;automation&quot;,null)" executed="True" result="Error" success="False" time="0.002" asserts="0">
+                            <failure>
+                              <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.
+TearDown : System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                              <stack-trace><![CDATA[at GoogleAutoTest.Specs.Features.GoogleSearchFeature.ScenarioInitialize(ScenarioInfo scenarioInfo)
+at GoogleAutoTest.Specs.Features.GoogleSearchFeature._01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord(String scenarioName, String browser, String expectedWord, String[] exampleTags) in D:\Rost\LessonsCSharpGosha\GoogleAutoTest.Specs\GoogleAutoTest.Specs\Features\GoogleSearch.feature:line 6
+--TearDown
+at GoogleAutoTest.Specs.Features.GoogleSearchFeature.ScenarioTearDown()
+]]></stack-trace>
+                            </failure>
+                          </test-case>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

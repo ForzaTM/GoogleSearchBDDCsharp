@@ -1,0 +1,7 @@
+2018-10-26 15:22:53.584 +03:00 [INF] Executed at 1773589843
+2018-10-26 15:22:53.586 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("3. Search using Firefox drive","Firefox","automation",null) Started successfully
+2018-10-26 15:23:01.648 +03:00 [INF] Driver: Firefox was used to run test
+2018-10-26 15:23:02.332 +03:00 [INF] Wait for the By.CssSelector: h3.LC20lb element
+2018-10-26 15:23:06.566 +03:00 [INF] Element: Element (id = 7e78a83c-2dc1-4fa8-947d-dea9633da334) Click successfull
+2018-10-26 15:23:06.567 +03:00 [INF] Element: GoogleAutoTest.Specs.Core.WebElement Click successfull
+2018-10-26 15:23:06.570 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("3. Search using Firefox drive","Firefox","automation",null) Finished successfully

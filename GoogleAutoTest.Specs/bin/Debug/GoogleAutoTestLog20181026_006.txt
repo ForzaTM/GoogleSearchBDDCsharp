@@ -1,0 +1,7 @@
+2018-10-26 15:22:44.247 +03:00 [INF] Executed at 1773580500
+2018-10-26 15:22:44.250 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("2. Search using IE drive","IE","automation",null) Started successfully
+2018-10-26 15:22:46.433 +03:00 [INF] Driver: IE was used to run test
+2018-10-26 15:22:50.693 +03:00 [INF] Wait for the By.CssSelector: h3.LC20lb element
+2018-10-26 15:22:52.989 +03:00 [INF] Element: Element (id = 8c7229ff-9ee0-42a2-ba2f-c672a9783991) Click successfull
+2018-10-26 15:22:52.990 +03:00 [INF] Element: GoogleAutoTest.Specs.Core.WebElement Click successfull
+2018-10-26 15:22:53.002 +03:00 [INF] Test:_01OpenGoogleSearchAndVerifyThatTitleContainsSearchedWord("2. Search using IE drive","IE","automation",null) Finished successfully
